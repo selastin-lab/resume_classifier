@@ -1,0 +1,18 @@
+# Ignore virtual environment
+.venv/
+venv/
+__pycache__/
+
+# Ignore datasets
+dataset/
+*.csv
+*.xlsx
+
+# Ignore model artifacts
+*.pkl
+*.bin
+*.pt
+
+# Ignore OS / IDE files
+.DS_Store
+.vscode/

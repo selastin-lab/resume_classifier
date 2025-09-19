@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.log
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Model and data files
+model_files/
+*.joblib
+*.pkl
+*.h5
+*.bin
+*.pt
+
+# Datasets
+dataset/
+data/
+*.csv
+*.xlsx
+*.tsv
+*.json
+
+# Streamlit cache
+.streamlit/
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Large temporary files
+*.zip
+*.tar
+*.gz
+*.7z
+*.pkl
+*.pt
+*.bin

@@ -1,0 +1,25 @@
+streamlit
+scikit-learn
+pandas
+numpy
+PyPDF2
+python-docx
+joblib
+transformers
+torch
+sentencepiece
+streamlit
+scikit-learn
+pandas
+numpy<2.0
+PyPDF2
+python-docx
+joblib
+transformers
+torch
+openpyxl
+matplotlib
+tqdm
+pillow
+pytesseract
+fitz  # PyMuPDF
